@@ -1,0 +1,4 @@
+aiofiles>=23.2.1
+loguru>=0.7.2
+requests>=2.31.0
+web3>=6.15.1
